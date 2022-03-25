@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HanimalGurl
+- 👋 Hi, I’m @HanimalGurl, most people know me as Hasnat
 - 👀 I’m interested in Client-side programming
-- 🌱 I’m currently learning Javascript, python, MySQL
-- 💞️ I’m looking to collaborate on Java projects
+- 🌱 I’m currently learning Kotlin, Prolog, Python, MySQL
+- 💞️ I’m looking to collaborate on Java and python projects
 - 📫 How to reach me: 
 -        	      Discord - HanimalGurl#9942;
 -                    Linkedin - https://www.linkedin.com/in/hasnatlamina
