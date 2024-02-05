@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@HanimalGurl](https://github.com/HanimalGurl), most people know me as Hasnat
 - 👀 I’m interested in Web App Developing and Software Developing.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and .NET via Codecademy.
-- 💞️ I’m looking to collaborate on FullStack Projects
+- 🌱 I’m currently learning HTML, CSS, Typscript, Angular, GraphQL and MongoDB.
+- 💞️ I’m looking to collaborate on FullStack Projects and Frontend Projects.
 - 📫 How to reach me: 
 -        	      Discord - HanimalGurl#9942;
 -                    Linkedin - https://www.linkedin.com/in/hasnatlamina
